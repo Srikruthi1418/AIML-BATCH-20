@@ -4,3 +4,5 @@
 2.[part2.assign1](https://github.com/Srikruthi1418/AIML-BATCH-20/edit/main/README.md)
 
 3.[assign2](https://github.com/Srikruthi1418/AIML-BATCH-20/edit/main/README.md)
+
+4.[assign3](https://github.com/Srikruthi1418/AIML-BATCH-20/edit/main/README.md)
