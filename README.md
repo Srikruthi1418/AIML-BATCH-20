@@ -8,3 +8,5 @@
 4.[assign3](https://github.com/Srikruthi1418/AIML-BATCH-20/edit/main/README.md)
 
 5.[assign5](https://github.com/Srikruthi1418/AIML-BATCH-20/blob/main/assignment5.ipynb).
+
+6.[assign6](https://github.com/Srikruthi1418/AIML-BATCH-20/blob/main/ASSIGNMENT6.ipynb).
