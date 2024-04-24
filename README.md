@@ -17,3 +17,5 @@
 
 9.[assign9](https://github.com/Srikruthi1418/AIML-BATCH-20/blob/main/Assignment%206.ipynb)
 
+10.[assign10](https://github.com/Srikruthi1418/AIML-BATCH-20/blob/main/ASSIGNMENT_10.ipynb)
+
